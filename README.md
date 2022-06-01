@@ -2,4 +2,4 @@ CanvasTable is a flexible and efficient multimedia web application framework.jus
 
 Download demo : https://github.com/MingHui1997/CanvasTable.JS-Game-demo
 
-Download source : 
+Download source : https://github.com/MingHui1997/CanvasTable.JS_Source
