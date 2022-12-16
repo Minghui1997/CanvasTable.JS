@@ -7,3 +7,4 @@ Download demo : https://github.com/MingHui1997/CanvasTable.JS-Game-demo
 Download source : https://github.com/MingHui1997/CanvasTable.JS_Source
 
 
+I launched CanvasTable.ENTITY,welcome download : https://github.com/MingHui1997/CanvasTable.ENTITY
