@@ -1,10 +1,10 @@
 ![image](https://raw.githubusercontent.com/MingHui1997/CanvasTable.JS/main/splash.png)
 
-![image](https://raw.githubusercontent.com/MingHui1997/Github-project-icon/main/ProjectType/framework.png)
-![image](https://raw.githubusercontent.com/MingHui1997/Github-project-icon/main/ProjectStatus/release.png)
-
 CanvasTable is a flexible and efficient multimedia web application framework.just writing once code can make web application run on the desktop and mobile platforms.you can use it to rapidly develop web multimedia application and game application,also can use packaging to develop native multimedia application and game application.
 
 Download demo : https://github.com/MingHui1997/CanvasTable.JS-Game-demo
 
 Download source : https://github.com/MingHui1997/CanvasTable.JS_Source
+
+
+I launched CanvasTable.ENTITY,welcome download : https://github.com/MingHui1997/CanvasTable.ENTITY
